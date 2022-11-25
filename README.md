@@ -1,7 +1,7 @@
 Its part of [heplify-server](https://github.com/sipcapture/heplify-server). Possible to use inside your project.
 
 ###Example usage:
-
+```go
     import (
         "github.com/custompbx/hepparser"
         "net"
@@ -42,4 +42,4 @@ Its part of [heplify-server](https://github.com/sipcapture/heplify-server). Poss
         }
         // Do whatever with packet -- hepPacket
     }
-	
+```	
